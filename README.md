@@ -37,9 +37,12 @@
 第一阶段
 高等数学共128课时 64天
 https://www.bilibili.com/video/BV1a14y187qn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a0da27199975d74bd35caa88fcc37bc8
+
 英语6级大纲词汇共8015词共需320天
 墨墨背单词
+
 C语言39课时 19天
 百度网盘
+
 计算机操作系统38小时 19天
 https://space.bilibili.com/202224425/lists/4823953?type=season
