@@ -5,5 +5,5 @@ int main() {
 	scanf("%lld %lld", &a, &b);
 	printf("%lld", a + b);
 	return 0;
-	//此题犯错没仔细看题，没发现int已经无法满足要求
+	//姝ら鐘敊娌′粩缁嗙湅棰橈紝娌″彂鐜癷nt宸茬粡鏃犳硶婊¤冻瑕佹眰
 }
