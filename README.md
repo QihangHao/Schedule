@@ -43,19 +43,6 @@
 
 8小时我打算按照政治+英语2小时 数学2小时 专业课4小时来分布  
 
-第一阶段  
-
-马克思主义基本原理概论  8小时 共6~7天  
-https://www.bilibili.com/video/BV1gnkYYoE8n/?spm_id_from=333.337.search-card.all.click&vd_source=a0da27199975d74bd35caa88fcc37bc8   
-https://www.bilibili.com/video/BV16y411q7SC/?spm_id_from=333.337.search-card.all.click&vd_source=a0da27199975d74bd35caa88fcc37bc8  
-高等数学共128课时 64天  
-https://www.bilibili.com/video/BV1a14y187qn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a0da27199975d74bd35caa88fcc37bc8  
-
-英语6级大纲词汇共8015词共需320天  
-墨墨背单词  
-
-C语言39课时 19天  
-百度网盘  
-
-计算机操作系统38小时 19天  
-https://space.bilibili.com/202224425/lists/4823953?type=season  
+《C语言程序设计》（万波西电版）​​→ 2. ​​《数据结构C语言版》（严蔚敏）​​→ 3. ​​《计算机组成原理（第2版）》​​→ 4. ​​《计算机操作系统（第四版）》（汤小丹）​​→ 5. ​​《计算机网络（第7版）》（谢希仁）​    
+高等数学→线性代数→概率论与数理统计​  
+马原→毛中特→史纲→思修→形势与政策​  
